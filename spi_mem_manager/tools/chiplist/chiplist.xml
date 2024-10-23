@@ -487,6 +487,7 @@
       <_25LC320 page="32" size="4096" spicmd="95"/>
       <_25LC512 page="128" size="65536" spicmd="95"/>
       <_25LC640 page="32" size="8192" spicmd="95"/>
+      <24LC08BT id="9D6018" page="16" size="8192"/>
     </MICROCHIP>
     <MICRON>
       <N25Q032A id="20BA16" page="256" size="4194304"/>
